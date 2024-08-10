@@ -21,8 +21,8 @@ locale.setlocale(locale.LC_ALL, 'turkish')
 
 #--------------------------------------------------------------------------------------------------------------------------
 
-token = "MTE2NTIxMTAzNDEwMjAyMjI5Ng.GJ445_.M9dpfVPx9p11bOTh3AsbPfBipEf_BziYwY8tuM" # Bot token'i
-url = "mongodb+srv://ozberk:0808er11@cluster0.hwi4pdb.mongodb.net/?retryWrites=true&w=majority" # MongoDB url
+token = "" # Bot token'i buraya yapıştırın
+url = "" # MongoDB url buraya yapıştırın
 prefix = "!" #bot prefixi
 yonetici_id = 1245799328438812672 #yönetici rol id
 kayit_yetkili = 1245799328438812672 #kayıt yetkili rol id
